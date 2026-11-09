@@ -37,5 +37,5 @@ quasar build
 
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-file).
 
-#Antonio Ožbolt, Matko Macan, Elhana Majetić, Sara Polić, Tomislav Sobotinčić
-#Fotocept je aplikacija za skeiranje namirnica i davanje gotovih recepata. Korisik skenira nekoliko namirnica te mu aplikacija pokaže recepte koji sadrže te namirnice.
+Antonio Ožbolt, Matko Macan, Elhana Majetić, Sara Polić, Tomislav Sobotinčić
+Fotocept je aplikacija za skeiranje namirnica i davanje gotovih recepata. Korisik skenira nekoliko namirnica te mu aplikacija pokaže recepte koji sadrže te namirnice.
